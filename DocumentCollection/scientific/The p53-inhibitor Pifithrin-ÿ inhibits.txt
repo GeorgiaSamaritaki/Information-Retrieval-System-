@@ -1,0 +1,74 @@
+The p53-inhibitor Pifithrin-· inhibits Firefly Luciferase activity in vivo and in vitro
+Sonia Rocha, Kirsteen J Campbell, Kevin C Roche and Neil D Perkins*
+Abstract
+Background: Pifithrin-· is a small molecule inhibitor of p53 transcriptional activity. It has been
+proposed that the use of pifithrin-· in conjunction with chemotherapeutic and radiation therapies
+for cancer will reduce the side effects of these treatments in normal tissue that still contains wild
+type p53. In addition, pifithrin-· provides a useful tool in the laboratory to investigate the function
+of p53 in model systems.
+Results: While investigating the effects of pifithrin-· on the transcriptional activity of NF-ÍB, we
+observed a strong inhibition of reporter plasmids containing the firefly luciferase gene. Firefly
+luciferase is one of the most commonly used enzymes in reporter gene assays. In contrast, no
+inhibition of reporter plasmids containing Renilla luciferase or chloramphenicol acetyltransferase
+was observed. The inhibition of firefly luciferase activity by pifithrin-· was observed both in vivo and
+in vitro. Pifithrin-· did not inhibit firefly luciferase protein expression, but rather suppressed light
+production/emission, since addition of exogenous pifithrin-· to active extracts inhibited this
+activity. Furthermore, pifithrin-· also inhibited recombinant firefly luciferase protein activity.
+Conclusions: Among its other biological activities, pifithrin-· is an inhibitor of firefly luciferase
+activity. Caution must therefore be taken when using this compound, which has been characterised
+as an inhibitor of p53 transcriptional activity, to investigate effects on gene expression using
+transiently transfected reporter plasmids. Furthermore, these results demonstrate that when using
+novel compounds, the choice of vectors used in the experimental procedures might be of great
+importance for the correct conclusions to be made.
+Background
+The tumour suppressor protein, p53 is one of the most intensively studied proteins throughout biomedical
+research. Due to its central role in genome surveillance, cell cycle arrest and apoptosis induction, compounds
+affecting this protein, either re-activating it or inactivating it, are of exceptional interest and use in the field of cancer, Alzheimer's disease, Parkinson's disease, stroke and brain trauma [1ñ3].
+In recent years, a chemical inhibitor of p53, Pifithrin- ·(PFT-·), has been identified and used both in vitro and
+in vivo to investigate p53 function [4]. PFT-· reversibly inhibits p53-transcriptional activity, inhibiting p53-
+induced apoptosis, cell cycle arrest and DNA-synthesis) block [4ñ9]. PFT-· has been successfully used in vitro and in vivo to protect normal cells from otherwise lethal doses of chemo and radiotherapy [3,4,10]. PFT-· thus provides a valuable tool for the identification of genes under the control of p53 [10]. Despite the exciting data of these reports, little or nothing is known about the mechanism of action of PFT-·, although it is thought to disrupt the nuclear transport of p53 [10]. Recently, the group that originally discovered PFT-·, reported that this compound also inhibits the heat shock and glucocorticoid pathways, suggesting that it targets a commonly used protein required for the activity of multiple transcription factors [11]. Reporter gene assays are routinely used to study the control of transcription. This involves the coupling of reporter enzymes such as firefly or Renilla luciferase and Chloramphenicol acetyltransferase to the gene promoter region of interest. Generally, the activity of these enzymes is unaffected by the treatment conditions and this is not considered when interpreting the data obtained from these assays. However, it is known that enzymes such as luciferase and ‚-Galactosidase are affected by certain stress conditions such as heat shock and oxidative stress [12,13]. The fact that these enzymes can be affected by such conditions can give rise to misinterpreted data and compromise the conclusions from these assays. In this report, we have investigated the effect of PFT-· on different reporter genes. We find that PFT-· is a specific inhibitor of firefly luciferase. These results indicate that when performing functional experiments with this important compound, an appropriate choice of vector should be utilised. These observations also give possible insight into the mechanism of action of PFT-· in vivo.
+
+Results
+Effects of PFT- · on p53-dependent and independent  luciferase reporter plasmids
+To determine the effects of PFT-· on p53-dependent and -independent transcriptional activity U-2 OS human osteosarcoma cells, which contain wild type p53, were transiently transfected with a variety of firefly luciferase
+reporters. The p53-responsive reporters used were PG13 and p21-luciferase and the unrelated reporters were 3x ÍB and HIV-LTR-luciferase, which are both regulated by the NF-ÍB family of transcription factors. Previously, we have shown that the PG13 and 3x ÍB reporters are specifically regulated by p53 and NF-ÍB, even in unstimulated U-2 OS cells where there is a basal level activity of both transcription factors [14,15]. The p21 and HIV-LTR luciferase reporters are not solely regulated by p53 and NF-ÍB, however, and so effects could result from other DNA-binding proteins. PFT-· was added to the cells at a final concentration of 20 µM and cells were harvested 24 hours later. As expected, PFT-· strongly downregulated p53-responsive reporters (Figure 1A) but surprisingly inhibition of the NF-ÍB regulated luciferase reporters was also observed (Figure 1B). Further experimentation revealed a dosedependent inhibition of both p21-luciferase and 3x ÍB luciferase by PFT-· (Fig. 1C). Since cross-talk between these transcription factors has been previously observed [16ñ19], we decided to investigate if this was an effect seen due to PFT-· mediated inhibition of p53. Using U-2 OS cells, p53 was induced by co-transfection of an expression plasmid encoding the tumour suppressor p14ARF, in the presence or absence of PFT-· (Figure 1D). As expected, PFT-· treatment induced p53 stabilisation and repressed p53-induced endogenous p21 expression (Figure 1D). In contrast, the effects on NF-ÍB dependent gene expression
+were conflicting. While PFT-· inhibited the IÍB-· luciferase reporter, no effect on induction of endogenous IÍB-
+· protein could be detected following RelA (p65) transfection (Figure 1E &1F). Furthermore, no changes in NF-ÍB DNA-binding were observed (data not shown). This prompted us to investigate the effect of PFT-· on other
+firefly luciferase reporters. These included the Cyclin D1, Cyclin E and Bcl-2 promoters and Gal4 fusions with
+RelA(p65) and the p300 coactivator protein [15,20,21]. Surprisingly, we observed that PFT-· inhibited the activity of every firefly luciferase reporter utilised, regardless of the transcription factors by which they were regulated (data not shown). PFT-· is not a general inhibitor of transcription, however, since the PFT-· treated cells did not die (data not shown) and PFT-· had no effect on an in vitro transcription assay (L.M. Elsby and S.G.E. Roberts, personal communication). Furthermore, it had no effect on in vitro translation using reticulocyte lysates (data not shown).
+
+PFT- · does not inhibit Renilla luciferase or CAT based reporters
+We next wanted to determine if PFT-·-mediated inhibition was also observed using chloramphenicol acetyltransferase (CAT) reporters or a different type of luciferase. To investigate this, different cell types were
+transiently transfected with pRL-CMV luciferase, where the luciferase gene is from Renilla reniformis. Interestingly PFT-· had no effect on Renilla luciferase activity (Figure 2A). Furthermore, no inhibition was observed when NF-ÍB-dependent CAT-reporters were used (Figure 2B). Using a 2x ÍB CAT reporter, no inhibition following PFT-· was observed, while 3x ÍB-luciferase, was strongly repressed (compare Figure 1B with Figure 2B). Similar results were found when A20 CAT was compared to A20-luciferase following
+PFT-· treatment (data not shown). 
+
+Conclusions
+These results, taken together with those from other groups where small molecules have been found to inhibit luciferase activity [22,23] indicate the importance of using strictly controlled experiments when using reporter gene assays and novel compounds. These effects might be of particular relevance when designing cell based assays for small molecule inhibitors of specific signalling and transcriptional regulatory pathways.
+
+Methods
+Cell Culture
+Human embryonic kidney (HEK) 293, human osteosarcoma U-2 OS and human foreskin fibroblast (HFF) cells
+were maintained at 5% CO2 in Dulbeccos Modified Eagle Medium (DMEM) (Sigma), supplemented with 10% FCS, 1% L-glutamine (GibcoBRL) and 1% penicillin/streptomycin (Sigma).
+
+Reporter Plasmid and expression plasmids
+Firefly (Photinus pyralis) Luciferase reporter plamids used were: 3x ÍB-luc and IÍB-·-luc (provided by Prof. Ron Hay, St. Andrews), PG13-luc and p21-luc (provided by Prof. David Lane, Dundee and Dr. Tim Crook, London). Renilla (Renilla reniformis) Luciferase reporter plasmid pRL-CMV was obtained from Promega. CAT reporter plasmids: 2x ÍB and A20 CAT have been described previously [14,16]. The RSV-p65 expression plasmid has also been described [16]. The pCDNA3 p14ARF expression plasmid was provided by Dr Gordon Peters (London).
+
+Luciferase Reporter Assays
+For analysis of luciferase reporters, cells were plated in 6- well plates and transiently transfected using the Calcium Phosphate method (previously described in [16]). Luciferase activity was determined using the Luciferase assay system (Promega) according to the manufacturer's instructions and normalised for total protein. QuantiLum Æ Recombinant Luciferase was obtained from Promega and light units were determined according to
+manufacturer's instructions. 
+CAT Reporter Assays
+Indicated cells were plated in 100 mm dishes, transfected by Calcium phosphate method and analysed as previously described [16]. Results were normalised for total protein.
+
+PFT- · Treatments
+PFT-· was obtained from Biomol and dissolved in DMSO. For in vivo studies, PFT-· or the equivalent
+amount of DMSO in controls, were added directly to cells at the final concentrations indicated. For in vitro studies, PFT-· was added exogenously to active cellular extracts or recombinant luciferase and compared to an equivalent DMSO treatment.
+
+Protein Extraction, Western Blot Analysis and Antibodies
+Nuclear extracts were prepared as described previously [25]. For whole protein lysates, cells were washed once
+with PBS, and resuspended in buffer A (20 mM Hepes pH 7.6, 400 mM NaCl, 1 mM EDTA, 25% Glycerol, 0.1% NP-40, 1 mM DTT). Cells were lysed with 10 strokes of a 26 G syringe. Cells were incubated on ice for 30 minutes before centrifugation at maximum speed for 15 minutes. All solutions used in protein extractions contained protease and phosphatase inhibitors, PMSF (1 mM), leupeptin (1 µg/µl), aprotinin (1 µg/µl), pepstatin A (1 µg/µl), NaF (5 mM), Na3VO4 (500 µM). Protein determination of extracts was performed using the BioRad Bradford protein assay. Following SDS-PAGE, resolved proteins were electroblotted onto PVDF membranes. The membrane was blocked in 10% blocking buffer (TBS-0.1% Tween-20, 10% milk) for 30 minutes. The membrane was then probed with the primary antibody in 5% TTBS-milk overnight at 4∞C, followed by three 10 minute washes with TTBS. Incubation with the secondary antibody was performed for 1 hour at room temperature followed by 3 times 10 minutes washes with TTBS. Detection of proteins was achieved using ECL (Amersham). Antibodies used were anti-p21 (Santa Cruz Biotechnology), anti-p53 DO-1 (gift from Dr. Sonia Lain and Prof. David Lane, Dundee) and anti-IÍB-· (gift from Prof. Nancy Rice, National Cancer Institute). All of these antibodies have been previously described [20].
+
+Authors contributions
+SR performed the majority of the experimental work, initially conceived the study and wrote the earlier drafts of
+the manuscript. KJC and KCR performed the remainder of the experimental work, helped during the preparation of the manuscript and should be considered as having made an equal contribution to the paper. NDP participated in the design and coordination of the study and prepared the final drafts of the manuscript. All authors read and
+approved the final manuscript.
+

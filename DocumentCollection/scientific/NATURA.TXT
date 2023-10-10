@@ -1,0 +1,103 @@
+Natural antisense RNA inhibits the expression of BCMA, a tumour necrosis factor receptor homologue.
+
+Anastassia Hatzoglou1,2, Fr?d?rique Deshayes1, Christine Madry1,
+Genevi?ve Lapr?e1, Elias Castanas2 and Andreas Tsapis*1
+
+Abstract
+Background: BCMA (B-cell maturation) belongs to the tumour necrosis factor receptor gene
+family, and is specifically expressed in mature B lymphocytes. Antisense BCMA RNA is produced
+by transcription from the same locus and has typical mRNA features, e.g, polyadenylation, splicing,
+Kozak consensus sequence and an ORF (p12). To investigate the function of antisense BCMA RNA,
+we expressed BCMA in cell lines, in the presence of antisense p12 or a mutant lacking the initiation
+ATG codon (p12-ATG).
+Results: Overexpression of both p12 and p12-ATG antisense BCMA resulted in a large decrease
+in the amount of BCMA protein produced, with no change in BCMA RNA levels, indicating that
+BCMA expression is regulated by antisense BCMA RNA at the translational level. We have also
+observed slight adenosine modifications, suggestive of the activity of a double-stranded RNAspecific
+adenosine deaminase.
+Conclusion: These data suggest that antisense BCMA may operate under physiological conditions
+using similar antisense-mediated control mechanisms, to inhibit the expression of the BCMA gene.
+Background
+BCMA (B-cell maturation) belongs to the tumour necrosis factor receptor (TNFR) gene family [1], and is specifically expressed in mature B lymphocytes [2,3]. BCMA and TACI (transmembrane activator and CAML-interactor), another TNFR-homologue [4], bind two TNF-homologues; BAFF (also called TALL-1, THANK, BLyS, and zTNF4) [5–9] and APRIL [10]. Futhermore, BAFF can bind to a third receptor
+BAFF-R which is specific to this ligand.[11,12]. This defines a complexe ligand-receptor system that may play an important role in B lymphocyte differentiation [9,13–18] and in the regulation of B-cell function.
+Naturally occurring antisense RNAs in eukaryotes may regulate sense gene expression, acting at the transcriptional, post-transcriptional or translational level [19]. We have previously reported the presence of a natural antisense BCMA RNA, which is produced by transcription from the same locus as BCMA and has typical mRNA features, e.g. polyadenylation, splicing, Kozak consensus sequence and an open reading frame encoding a 115 amino acid peptide (p12) [20]. RNase protection assays demonstrated the simultaneous presence of natural sense and antisense BCMA transcripts in most of the human B-cell lines and lymphoid tissues tested. We have not succeded to evidence antisense-BCMA transcripts in mouse B lymphocytes.
+In this study, we investigated whether antisense BCMA RNA regulated the expression of sense BCMA. We
+observed an inhibition of BCMA expression, the extent of inhibition increasing with the amount of antisense BCMA RNA. This regulation took place at the translational level. These data suggest that similar antisense RNA-mediated control mechanisms may operate in the control of BCMA expression in differenciating primary B lymphocytes. 
+
+Results and Discussion
+BCMA overexpression, like that of all TNFRs described to date, activates the NF-kappaB nuclear factor [21]. To investigate the function of antisense BCMA p12, we overexpressed BCMA in transient expression experiments, in 293 cells. We investigated whether the simultaneous expression of BCMA and p12 altered the activation of NF-kappaB from that observed if cells were transfected with BCMA alone. Overexpression of the antisense p12 construct resulted in no activation of NF-kappaB, observed with the insert-less vector. Overexpression of human
+BCMA induced the activation of NF-kappaB, to a level 11 times higher than that observed with the insert-less vector. This activation level was in the same range as that observed (16-fold) with LMP1, a known activator of this nuclear factor [22]. Co-transfection with hBCMA and p12 constructs led to a decrease by more than 50% in NF-kappaB activation. Co-transfection with LMP1 and p12 constructs did not result in lower levels of activation of NFkappaB than addition of LMP1 alone. In transient cotransfection experiments (Fig. 1), antisense p12 specifically inhibited the activation of NF-kappaB obtained by overexpression of BCMA alone.
+We then investigated whether the p12 protein or the corresponding RNA was responsible for the observed inhibition of NF-kappaB activation. We constructed a pcDNA3 vector encoding the p12 sequence, but without the ATG initiation codon (p12-ATG). We assayed NF-kappaB activation, when N-terminal FLAG-tagged BCMA (FhBCMA) was overexpressed in the presence of various amounts of constructs expressing either p12 or p12-ATG. We found (Fig. 2A) that p12 and p12-ATG inhibited NF-kappaB activation similarly, in a dose-dependent manner. The addition of neither p12 nor p12-ATG, in 7.5-fold excess, did not affect the NF-kappaB activation obtained by overexpressing LMP1 (Fig. 2C), indicating that the observed decrease
+in activation (Fig. 2A) was specific for BCMA. These data indicate that the antisense p12 RNA and not the p12
+protein is responsible for the observed inhibition of NFkappaB activation. We also tested, in the same experiment, whether the amount of BCMA protein produced depended directly on the amount of antisense construct added. Western blotting of 20 ?g of each sample (Fig. 2B) demonstrated that the addition of increasing amounts of either the p12 or the p12-ATG construct decreased to a 
+Figure 1
+Overexpression of natural antisense BCMA decreases BCMA-mediated NF-kappaB activation.
+293 cells were co-transfected with a total of 1 ?g of various plasmids. All samples contained 100 ng of the luciferase reporter plasmid and 50 ng of pGK?-gal plasmid. The negative control value was obtained the insert-less pcDNA3 vector (vector). NF-kappaB activation was measured in samples
+transfected with a) 100 ng of pcDNA3aSp12 (p12), b) 100 ng of pcDNA3LMP1 (LMP1), c) 100 ng each of LMP1 and p12 (LMP1+p12), d) 100 ng of pcDNA3hBCMA (hBCMA) and e) 100 ng each of hBCMA and p12 (hBCMA+p12). The quantity of plasmid added was adjusted to 1 ?g by adding sufficient
+insert-less pcDNA3 vector. 18–24 h after transfection, cells were harvested, lysed and analysed for luciferase and ?-galactosidase activity. Luciferase values were normalised to ?-
+galactosidase activity and the results are displayed as a multiple of the induction by vector alone. A representative result of three independent experiments is shown. Error bars denote standard deviations for triplicate samples. similar extent the amount of BCMA protein. BCMA protein
+was not detected if a 7.5-fold excess of any antisense construct was added. Antisense RNAs may regulate expression of the corresponding sense genes, at the nuclear, transcriptional, posttranscriptional
+or translational level [19]. To determine the level at which antisense BCMA acts, we studied the levels
+of BCMA mRNA and BCMA protein in 293T cells transiently transfected with FLAG-tagged hBCMA, in the
+presence of various concentrations of antisense p12-ATG construct. Cells were harvested and the resulting cell suspension was split in two. One half was lysed, soluble protein concentration determined and equal amounts of
+protein per lane were subjected to electrophoresis and Western immunoblotting, using M2 anti-FLAG mAb. The
+other half of the cell suspension was used to prepare total RNA. Northern blot experiments were performed to check the levels of hBCMA and human ?-actin mRNA (control). We found that production of BCMA protein was inhibited by the addition of antisense BCMA (Fig. 3). In the conditions used, BCMA protein production was abolished, if a nine-fold excess of antisense construct was added. The  Northern blot results clearly indicate that the level of BCMA mRNA is stable and unaffected by the addition of increasing amounts of antisense BCMA expression vector. The level of ?-actin mRNA is shown as a control. These data clearly indicate that antisense BCMA RNA does not affect the transcription of BCMA to give sense mRNA. In contrast, BCMA protein production is inhibited. We have measured by RNase protection assay the level of BCMA and antisense BCMA gene expression in some B lymphocytes cell lines in order to assess the relative proportionof each RNA in these cell lines. The results obtained show that antisense and sense RNAs are present simultaneously in Daudi, RPMI 8226, Raji and 167 cell lines; REH6 contains only antisense, while JEA contains only sense transcripts (Fig 4). These results did not show any rational correlation of the expressed amounts of sense and antisense-BCMA transcripts and indicate that each gene seems to be trancribed in an independent way. It has been reported that antisense RNA may cause the nuclear retention of sense RNA and the modification of adenosines to inosines in the sense-antisense hybrid doublestranded RNA, by the enzyme double-stranded RNA-specific adenosine deaminase (dsRAD/DRADA) [23,24]. This enzyme is present in the nucleus of somatic cells, has unwinding
+and modifying activity and is ubiquitous. We investigated whether this editing phenomenon occurred in
+the sense-antisense BCMA interaction by isolating cytoplasmic and nuclear total RNA from 293 cells transiently
+transfected with hBCMA in the presence or absence of a five-fold excess of antisense p12-ATG expression vector. The RNA was reverse-transcribed and PCR performed with 
+Figure 2
+Expression of antisense RNA is sufficient to obtain inhibition.A. 
+293T cells were co-transfected with a total of 1 ?g of various plasmids, using the same conditions for measuring NF-kappaB activation as in Fig. 1. The negative control was insert-less SV40 promoter-driven pSG5FLAG vector (vector). All other samples were transfected with 100 ng of
+pSG5FLAGhBCMA (FhBCMA) vector and various amounts of pcDNA3aSp12 (p12) or pcDNA3aSp12-ATG (p12-ATG), lacking the initiation ATG codon. Cells were harvested and lysed 48 hours after transfection and the lysate was assayed for NF-kappaB activation. B. Lysate (20 ?g) were subjected
+to electrophoresis and the amount of FhBCMA in 293T cells was determined by western blotting using the M2 anti-FLAG monoclonal antibody. We checked that the amount of protein was similar in all samples of 293T cells by subjecting 10 ?g of cell lysate to western blotting using a rabbit polyclonal
+anti-PI3-Kp85 antibody. C. The positive control was transfection with either 100 ng of LMP1 or 100 ng of LMP1 and 750 ng of p12 or p12-ATG expression vector.
+Figure 3
+Antisense BCMA RNA affects BCMA protein expression only on translational level. 
+293T cells were transfected  with insert-less vector or vector expressing FhBCMA in the presence of various amounts of p12-ATG expression vector. 48 hours after transfection cells were harvested and
+the cell suspension split in two. One half (about 107 cells) was lysed in appropriate buffer and 14 ?g of the resulting cell lysate was assayed by western blotting using the M2 anti-FLAG monoclonal antibody to test for FhBCMA. We tested that the protein levels were similar in the various samples by
+western blotting using a rabbit polyclonal anti-actin antibody. The other half of the cell suspension was used to prepare total RNA, which was used for northern blot to assess BCMA and human ?-actin levels. 293T cells were transfected with (A) none, (B) 1 ?g of insert-less pcDNA3, (C) 100 ng
+hBCMA, (D) 100 ng p12-ATG, (E) 100 ng hBCMA and 100 ng p12-ATG, (F) 100 ng hBCMA and 900 ng p12-ATG. Except for (A), cells were transfected with total of 1 ?g of plasmid using when needed insert-less pcDNA3.
+Figure 4
+RNase protection assay. RNase protection analysis of the BCMA and antisense-BCMA gene transcription in human B lymphocyte cell lines: RPMI 8226 (A), 167 (B), Daudi (C), Raji
+(D), JEA (E) and REH (F). 10 (30) ?g of total RNA were used for the analysis of BCMA (antisense-BCMA) gene transcription. Antisense results were obtained with 20-fold longer exposure than that of sense.
+Figure 5
+A. Structure of the BCMA gene and its corresponding antisense mRNA. The exons are indicated by boxes (white for the coding sequences and black for the 5' and 3' untranslated exons). Arrows indicate the direction of transcripton. The relative positions of the sense BCMA and antisense
+p12 cDNAs are also shown and the location of the restriction sites used indicated (M for XmnI, H for XhoI, R for RsaI and S for SalI). 
+
+B. Analysis of RT-PCR products.
+293T cells were transfected with vector expressing FhBCMA in the presence of a five-fold excess of p12-ATG expression vector. 48 hours after transfection, cells were harvested and cytoplasmic and nuclear RNA isolated, reverse transcribed and amplified by PCR . The resulting 555 bp BCMA band was digested with XmnI, and XhoI restriction enzymes. The results of these digestions are shown. 
+
+C. Sequence comparison of clone #10 with that of WT human BCMA cDNA. Only the sequence overlapping the antisense BCMA is shown (modifications were found only in this part of the
+sequence). Only modified bases are indicated in the sequence of the #10 clone. Other sequences were identical. The XmnI, XhoI, RsaI and SalI sites are underlined. specific oligonucleotide primers to amplify the entire coding sequence of BCMA. These priners have been chosen outside the overlapping zone between sense and antisense-BCMA, in which editing can only be observed: (5'-
+CGGGATCCGCTGGGCAGTGCTCCCAAA-3'; 5'-CCCAAGCTTTTACCTAGCAGAAATTGATTTC-3'). The resulting 555 bp fragment was digested with RsaI, XhoI, SalI and XmnI, all of which have unique restriction sites in BCMA cDNA (Fig. 5A), to verify whether there had been  any modification of the adenosines of these restriction sites. The results obtained for XmnI and XhoI digestion are presented in Fig. 5B. Amplified sequences of cytoplasmic and nuclear origin were totally digested, giving rise to two bands of 333 and 222 bp for XmnI and 354 and 201 bp for XhoI digestion. Similar results were obtained with RsaI and SalI restriction enzymes (data not shown). Thus there was no significant modification of the adenosines present in the restriction sites for these enzymes. Although we obtained no evidence for extensive adenosine modification, we digested the 555 bp band, amplified from nuclear cDNA, with BamHI and HindIII, inserted it between the Bam HI and HindIII sites of pUC18 and sequenced 29 clones. Twenty-eight of these clones had sequences identical to that of WT BCMA. Only one clone (#10) displayed modifications to 18% of adenosines (converted to guanosines),
+with no modification of any other base, indicating a slight RNA editing effect in the presence of BCMA antisense RNA (Fig. 5C). These modifications may be attributed to the action of the dsRAD/DRADA enzyme and indicate that BCMA sense expression is regulated by antisense RNA at more than one level. These observations are consistent with the results obtained in a previous paper [20], in
+which no editing had been observed on 11 sequenced antisense-BCMA cDNAs. These results suggest that if there is any modification, it must be rare. BAFF-R, BCMA and TACI receptors are present on B lymphocytes.
+BAFF-R binds only BAFF, while BCMA and TACI bind with slight differences in affinity to the same ligands,
+BAFF and APRIL [13,15]. Their patterns of signal transduction differ [21,25], indicating that they may be responsible for different fates of differentiating B lymphocytes. Several mechanisms of control of expression of either one of these receptors may be used by the cell, resulting in different differentiation pathways for B lymphocytes (memory cells, germinal centre cells and/or plasmocytes). In this paper, we present evidence, that in transient expression experiments, BCMA gene expression is tightly and rapidly regulated by antisense BCMA RNA.
+
+Conclusions
+The data obtained from the transient expression experiments suggest that antisense BCMA inhibits the expression of BCMA protein and does not affect the expression level of BCMA mRNA. The use of a vector missing the initiation codon for the putative antisense p12 protein showed that the inhibition of the BCMA protein expression is obtained through the action of the antisense RNA and not of the p12 protein. These data suggest that antisense BCMA may operate under physiological conditions using similar antisense-mediated control mechanisms, to inhibit the expression of the BCMA gene 
+
+Materials and Methods
+RNA isolation
+Nuclear and cytoplasmic RNAs were isolated by a method described elsewhere [26]. Total RNA was isolated using the TRIzol reagent (Life Technologies, Grand Island, NY) and reverse transcribed using the "Superscript preamplification system" (Life Technologies, Grand Island, NY). 
+
+Northern blot analysis
+20 ?g of total RNA per lane were electrophoresed in a 1% agarose gel, transferred onto Nylon filter (Amersham) and hybridized, as previously described [27]. Probes (human BCMA and ?-actin full-lentgh cDNAs) were labelled, using the random prime method [28]. 32P-labelled nucleotides were purchased from Amersham.
+
+Antibodies and reagents
+M2 anti-FLAG monoclonal antibody and protease inhibitors were purchased from Sigma-Aldrich. Goat antimouse IgG polyclonal antibodies HRP-conjugated and donkey anti-rabbit IgG polyclonal antibodies HRP-conjugated were purchased from Immunotech, Marseille, France. Rabbit polyclonal anti-PI3-K p85 antibodies were from UPI, Lake Placid, NY. Rabbit polyclonal anti-actin antibodies were from Sigma Aldrich. DMEM, fetal calf serum, additional reagents for cell culture, Optimem and Lipofectamine were purchased from Life Technologies.
+
+Primers
+BCMA 5'ATG (5'-AAGCTTATGTTGCAGATGGCTGGGCA-3')
+BCMA 3'TAA (5'-GGATCCTTACCTAGCAGAAATTGATTTC-3')
+AH7 (CGCGGATCCTTACCTAGCAGAAATTGATTTCT-3')
+BFL1 (5'-AACTGCAGCTGGGCAGTGCTCCCAAAA-3')
+p12 5' (5'-AAGCTTATGGTTGCGCCTTCCTCCAT-3')
+p12 3' (5'-GGATCCTTATTGTAATGCAAGTGTGACCA-3')
+p12-ATG 5' (5'-GGAATTCGTTGCGCCTTCCTCCATAG-3')
+p12-ATG 3' (5'-TCTAGATTATTGTAATGCAAGTGTGACCA-3')
+
+All primers used in this study were purchased from Genset, Paris, France.
+
+of French Republic at Athens, Greece to A.H.
